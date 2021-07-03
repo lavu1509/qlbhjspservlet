@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+encoding//WebContent/login.jsp=UTF-8
+encoding//src/com/bookstore/control/LoginControl.java=UTF-8
+encoding//src/com/bookstore/dao/ProductDAO.java=UTF-8
